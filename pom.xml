@@ -60,7 +60,7 @@
                 <version>3.0.0-M9</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>Amazontestng.xml</suiteXmlFile>
                     </suiteXmlFiles>
 
                     <!-- Optional but useful -->
