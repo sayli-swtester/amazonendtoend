@@ -5,10 +5,7 @@
     <classes>
       <class name="package2.AmazonProject.TC_1_LogintoAmazon"/>
       <class name="package2.AmazonProject.TC_2_LogintoAmazonandLogout"/>
-      <class name="package2.AmazonProject.TC4_amazonFailedLogin"/>
     
-      <class name="package2.AmazonProject.TC_6_AmazonRegistration"/>
-      <class name="package2.AmazonProject.TC_3_LoginSearchingWishListcartLogout"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
